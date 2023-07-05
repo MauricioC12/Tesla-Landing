@@ -1,12 +1,12 @@
 # Tesla Landing Page
 
 ```
-git clone https://github.com/MauricioC12/Tesla-Landing.git
+https://teslandingpagee.netlify.app/
 ```
 
 ## 🖼 Preview
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+![basics](https://raw.githubusercontent.com/MauricioC12/Tesla-Landing/main/TeslaLandingPage.png)
 
 ## 🧞 Commands
 
