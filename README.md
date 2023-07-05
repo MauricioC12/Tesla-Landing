@@ -1,8 +1,6 @@
 # Tesla Landing Page
 
-```
 https://teslandingpagee.netlify.app/
-```
 
 ## 🖼 Preview
 
