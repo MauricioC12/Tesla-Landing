@@ -1,12 +1,20 @@
 # Tesla Landing Page
 
+## 🖼 Preview
+
+![basics](https://raw.githubusercontent.com/MauricioC12/Tesla-Landing/main/TeslaLandingPage.png)
+
 ## 🎈 Link
 
 https://teslandingpagee.netlify.app/
 
-## 🖼 Preview
+## Built with: 
 
-![basics](https://raw.githubusercontent.com/MauricioC12/Tesla-Landing/main/TeslaLandingPage.png)
+- Astro
+- TypeScript
+- Semantic HTML5 markup
+- Tailwind Css
+- Responsive design
 
 ## 🧞 Commands
 
